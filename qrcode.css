@@ -1,0 +1,40 @@
+body {
+    background-color:hsl(212, 45%, 89%);
+    padding-top: 10%;
+    padding-bottom: 10%;
+
+}
+.qr_code {
+    background-color: white;
+    width: 22.5%;
+    margin-left: 38.6%;
+    border-radius: 8px;
+    padding-bottom: 8px;
+
+}
+
+.qrcode {
+    width: 89%;
+    height: 89%;
+    margin-right: 4px;
+    margin-left: 4px;
+    border-radius: 8px;
+    margin-left: 5%;
+    margin-right: 4.98%;
+    margin-top: 4.98%;
+}
+.text {
+    width: 77.8816199%;
+    margin-left: 11.0585076%;
+}
+
+.text1{
+    color: hsl(218, 44%, 22%);
+    font-size: 15px;
+    font-weight: 700;
+}
+.text2{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 400;
+}
